@@ -91,4 +91,4 @@ model.predict(new_gem)
 ## 🤝 Contributions
 
 Open to pull requests and issues! Suggestions to expand the dataset or add model tuning are welcome.
-# Data-Science
+#  Gemstone_Price_Prediction_with_Deep_Learning
