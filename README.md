@@ -25,7 +25,7 @@ These represent gem-specific numerical characteristics (e.g., carat, weight, dim
 ## 📊 Workflow
 
 1. **Data Preparation**:
-   - Load data from `fake_reg.csv`
+   - Load data 
    - Normalize using `MinMaxScaler`
    - Split into training and testing sets
 
@@ -73,7 +73,7 @@ These represent gem-specific numerical characteristics (e.g., carat, weight, dim
 ```
 gemstone-price-predictor-dl/
 ├── gem_model.ipynb       # Main notebook with data loading, training, and evaluation
-├── TensorFlow_FILES/     # Contains the CSV dataset (e.g., fake_reg.csv)
+├── TensorFlow_FILES/     # Contains the CSV dataset
 ├── my_gem_model.keras    # Saved trained model
 ├── README.md             # Project documentation
 ├── requirements.txt      # Python dependencies
